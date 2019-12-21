@@ -1,2 +1,2 @@
 # -information-system
-build an information system for information gathering and analysis 
+build an information system for personal information gathering and analysis 
